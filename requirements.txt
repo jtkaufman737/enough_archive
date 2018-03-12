@@ -4,4 +4,4 @@ gunicorn==19.7.1
 pytz==2018.3
 whitenoise==3.3.1
 libpq-dev==10.3
-psycopg2==2.7.4
+psycopg2==2.7
